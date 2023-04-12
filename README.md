@@ -4,6 +4,6 @@
 
    python
 
-   pip install tkinter, pandas, matplotlib, time
+   pip install tkinter, pandas, matplotlib
 
 2. 실행
