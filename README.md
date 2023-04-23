@@ -7,3 +7,5 @@
    pip install tkinter, pandas, matplotlib
 
 2. 실행
+
+   run.py 실행
